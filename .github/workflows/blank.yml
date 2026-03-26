@@ -24,6 +24,6 @@ jobs:
           echo $username
           echo $JOB_VAR
           echo "Repo is ${{ github.repository }}"
-          echo " secret for username in Dockerhub is ${{ secrets.DOCKERHUB_USERNAME }}
+          echo " secret for username in Dockerhub is ${{ secrets.DOCKERHUB_USERNAME }}"
       
       
