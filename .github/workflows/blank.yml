@@ -23,5 +23,6 @@ jobs:
           echo $GLOBAL_VAR
           echo $username
           echo $JOB_VAR
+          echo "Repo is ${{ github.repository }}"
       
       
