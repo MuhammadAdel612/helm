@@ -4,7 +4,7 @@ appName: myhelmapp
 
 port: 80
 
-namespace: zero-fifo
+
 
 configmap:
   name: myhelmapp-configmap-v1
