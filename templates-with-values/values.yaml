@@ -4,7 +4,7 @@ appName: myhelmapp
 
 port: 80
 
-namespace: default
+namespace: zero-fofo
 
 configmap:
   name: myhelmapp-configmap-v1
